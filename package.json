@@ -4,8 +4,10 @@
   "homepage": "https://xndong1020.github.io/react-contextAPI-contextType-useContext",
   "dependencies": {
     "react": "^16.8.3",
+    "react-dev-utils": "^7.0.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "resolve": "^1.10.0"
   },
   "scripts": {
     "deploy": "npm run build&&gh-pages -d build",
